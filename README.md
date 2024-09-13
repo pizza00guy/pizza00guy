@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pizza00guy
-- 👀 I’m interested in programming pixel games
-- 🌱 I’m currently learning to create pixel charekters
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+- 👀 I’m interested in programming phyton
+- 🌱 I’m currently learning to a Sudoku solver
+- 💞️ I’m looking to collaborate on python 
 
 <!---
 pizza00guy/pizza00guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
